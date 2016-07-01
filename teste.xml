@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<produto>
+    <id>2</id>
+    <descricao>Teste B</descricao>
+    <preco>3</preco>
+</produto>
